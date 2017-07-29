@@ -2,4 +2,3 @@
 
 Finally getting started with Git after years of dabbling in coding. 
 
-thank you
